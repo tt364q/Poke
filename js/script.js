@@ -72,7 +72,7 @@ function render(showModal) {
         // generate the html for inner content of the modal
         // call the modal function on the modal element
         const $modalContent = $(`
-            <img src="${pokemonDetail.sprites.front_shiny}"/>
+            <img src="${pokemonDetail.sprites.front_default}"/>
             <h5>${pokemonDetail.name}</h5>
             <p>Height: ${pokemonDetail.height}</p>
             <p>Moves: ${pokemonDetail.moves.length}</p>
