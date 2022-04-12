@@ -16,7 +16,7 @@ A simple web app that displays Pokemon data using Pokemon API
 ![wireframe](./imgs/POKE%20WF.png)
 
 ## Getting Started
-[Click Here](#) to see the deployed app!
+[Click Here](https://tt364q.github.io/Poke/) to see the deployed app!
 
 ## Future Enhancements
 - The ability to favorite and save Pokemon to local storage
