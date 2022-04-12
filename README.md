@@ -19,4 +19,4 @@ A simple web app that displays Pokemon data using Pokemon API
 [Click Here](#) to see the deployed app!
 
 ## Future Enhancements
-- The ability to favorite and save Pokemon
+- The ability to favorite and save Pokemon to local storage
